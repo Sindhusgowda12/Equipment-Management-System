@@ -1,0 +1,5 @@
+{
+  "name": "Equipment Management System",
+  "description": "A comprehensive system to manage equipment lifecycle, maintenance logging, and status constraints with a React frontend and Express backend.",
+  "requestFramePermissions": []
+}
